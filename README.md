@@ -3,7 +3,7 @@
 The purpose for this analysis is to present to investors interested in implementing the NYC CitiBike ride sharing program in Des Moines, Iowa.
 
 # Results
-The public dashboard can be visualized [here](https://public.tableau.com/views/NYCBikeAnalysis_16498263653190/NYCBikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
+Public Tableau Dashboard can be visualized [here](https://public.tableau.com/views/NYCBikeAnalysis_16498263653190/NYCBikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 
 This analysis is done according to data collected in NYC, but it may be of great interest and to see key points for implementing in Des Moines.
 
